@@ -13,5 +13,7 @@ Contents:
 
 3-) Deep Learning 3: Exercises of MLP, Simple Neural Nets with Keras (No regularization and hyperparameters tuning)
 
+will be updated
+
 
 
