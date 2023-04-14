@@ -1,12 +1,10 @@
-# Deep-Learning
+# Deep Learning Fundamentals with Tensorflow
 
-Hi,
+## 👋 Introduction
 
-After I started sharing my machine learning notebooks in a repository I thought I can also edit my deep learning notes and provide some notebooks for people as well. Unfortunately, because of having limited time, I couldn't edit the notebooks much to make them educative. These notebooks are not as detailed as my machine-learning notebooks. They still include theory and application but not with a detailed explanation. These notebooks are more like combinations of the things I have done while I was learning the basics of deep learning. 
+Welcome to my notebooks on Fundamentals of Deep Learning with TensorFlow. In this repository, you will find my notes on Fundamentals of Deep Learning in which I gathered the building blocks of most deep learning algorithms. I used mainly three resources for creating these notebooks, I took my notes from [Géron, A. (2022)]() and [Chollet, F. (2021)]() and combined them with Deep Learning Specialization on Coursera. In each notebook, I also provide a bunch of new resources that I found helpful. These notebooks are more focus-on hands-on practice with also a little bit of theory provided. I think these notebooks would be most useful for those who have prior experience with the course on Coursera as well as those who have experience with the aforementioned books or some experience in deep learning. 
 
-Contents:
-
-To be updated.
+## 🗊 Content
 
 
 
