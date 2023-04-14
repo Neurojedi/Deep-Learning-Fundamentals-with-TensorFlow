@@ -6,7 +6,7 @@ Welcome to my notebooks on Fundamentals of Deep Learning with TensorFlow. In thi
 
 ## 🗊 Content
 
-**1. Deep Learning Fundamentals 1:**
+**Deep Learning Fundamentals 1:**
 
 
 
