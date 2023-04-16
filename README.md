@@ -20,5 +20,12 @@ Welcome to my notebooks on Fundamentals of Deep Learning with TensorFlow. In thi
 
 **Deep Learning Fundamentals 7:** In this notebook, we demonstrate how to use the techniques learnt in the previous three notebooks using Tensorflow/Keras.
 
+**Deep Learning Fundamentals 8:** In this notebook, we train MLPs on various datasets and tasks. We first start off by doing Binary Classification using MLPs on the Australian Rain Dataset and IMDB Dataset of Movie Reviews. Then we perform a multiclass classification on the Reuters newswire classification dataset, and lastly, we do a regression task using Monte Carlo Dropout on Boston Housing Dataset. We also briefly touch on some topics such as Spurious Correlations and Manifold Learning.
+
+**Deep Learning Fundamentals 9:** In this notebook, we talk about some important techniques to improve training efficiency. We start by gradient clipping and then explore different learning rate scheduling techniques. Afterwards, we briefly talk about using pre-trained layers.
+
+**Deep Learning Fundamentals 10:** In this notebook, we learn how to customize our network. We define customized loss functions, metrics, layers, training loops, and more.
+
+**Deep Learning Fundamentals 11:** In this notebook, we explore some important features of Tensorflow API such as Data API, Tensorflow Datasets, Tensorflow Hub, and Preprocessing Layers. 
 
 
