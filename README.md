@@ -1,6 +1,6 @@
 # Deep Learning Fundamentals with Tensorflow
 
-<img src="images/animation.gif" width="140%"></img>
+<img src="images/animation.gif"></img>
 
 
 
