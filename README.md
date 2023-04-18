@@ -28,4 +28,8 @@ Welcome to my notebooks on Fundamentals of Deep Learning with TensorFlow. In thi
 
 **Deep Learning Fundamentals 11:** In this notebook, we explore some important features of Tensorflow API such as Data API, Tensorflow Datasets, Tensorflow Hub, and Preprocessing Layers. 
 
+**Deep Learning Fundamentals 12:** In this notebook, we will be implementing two different models for classification on CIFAR-10 and IMDB Reviews datasets where we write use Monte Carlo Dropout, Learning Rate Scheduling, and write down Layer Normalization, TextVectorization Layer from scratch. 
 
+**Deep Learning Fundamentals 13:** In this notebook, we aim to practice custom training. We define custom training loops and practice on the Human-vs-Horse dataset. Moreover, we also define a custom quadratic layer that calculates ax^2+bx+c instead of ax+b.
+
+**Deep Learning Fundamentals 14:** In this notebook, we go on practicing custom training and create more complex custom training loops and implement the Siamese network.
