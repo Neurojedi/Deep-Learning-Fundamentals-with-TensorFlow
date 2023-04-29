@@ -38,3 +38,15 @@ Welcome to my notebooks on Fundamentals of Deep Learning with TensorFlow. In thi
 **Deep Learning Fundamentals 13:** In this notebook, we aim to practice custom training. We define custom training loops and practice on the Human-vs-Horse dataset. Moreover, we also define a custom quadratic layer that calculates ax^2+bx+c instead of ax+b.
 
 **Deep Learning Fundamentals 14:** In this notebook, we go on practicing custom training and create more complex custom training loops and implement the Siamese network.
+
+## 📼 Courses
+
+I also wanted to add my favorite Deep Learning Courses that you can find online.
+
+1. [Deep Learning by Andreas Geiger at University of Tubingen](https://www.youtube.com/watch?v=BHBAnUAdeyE&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD): This is my personal favorite because Andreas Geiger is an excellent teacher (I think his style particularly suits for me). The classes are well-designed and cover a wide range of topics, and I highly recommend checking out his computer vision course on the same channel. Be sure to have a look at the lecture problems too.
+
+2. [Stanford CS230: Deep Learning by Andrew NG](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb): Andrew NG is a highly regarded expert not only in the field of deep learning but also in the field of teaching and this course covers the fundamentals really well. His teaching style is unique and engaging, making it an enjoyable learning experience. (Don't worry about it if you don't understand 😎)
+
+3. [Deep Learning by Yann LeCun and Alfredo Canziani at NYU](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v&index=1): This course covers a wide range of topics in depth, and the additional course material provided [here](https://atcold.github.io/pytorch-Deep-Learning/) is also awesome. However, it may be a bit more challenging for beginners compared to the other two courses, so I recommend starting with one of the other courses before diving into this one if you are a beginner.
+
+4. Finally, I also recommend checking out Andrew NG's courses on Coursera. They were a great resource for me while creating this repository, and they cover a wide range of topics in deep learning as well.
