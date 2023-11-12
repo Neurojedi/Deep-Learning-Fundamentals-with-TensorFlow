@@ -41,7 +41,7 @@ Welcome to my notebooks on Fundamentals of Deep Learning with TensorFlow. In thi
 
 ## 📼 Courses
 
-I also wanted to add my favorite Deep Learning Courses that you can find online.
+I wanted to add my favorite Deep Learning Courses that you can find online.
 
 1. [Deep Learning by Andreas Geiger at the University of Tubingen](https://www.youtube.com/watch?v=BHBAnUAdeyE&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD): This is my personal favorite because Andreas Geiger is an excellent teacher (I think his style particularly suits me). The classes are well-designed and cover a wide range of topics, and I highly recommend checking out his computer vision course on the same channel. Be sure to have a look at the lecture problems too.
 
